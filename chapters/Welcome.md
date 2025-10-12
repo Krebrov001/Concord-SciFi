@@ -1,0 +1,140 @@
+# The Concord - a flower in the grimdark
+
+### The Concord - a flower blooming in the grimdark of futureyear
+
+**Chapters in the science fiction story:**
+
+- [[Story outline]]
+- [[Introduction]]
+- [[An Imperial Stargate]]
+- [[The Aquila over Abydos Primus]]
+- [[Khensu's Interrogation]]
+- [[The Stargate Crusade - Part 1]]
+- [[The Stargate Crusade - Part 2]]
+- [[Secrets of the Sun Warriors]]
+- [[The Pleiadians and the Space Elves]]
+- The Elves
+- The Tulip Fields
+- The Mystical Alliance
+- [[Freeing the Rodnovers]]
+- [[Freeing the Celtics]]
+- Founding the Concord
+- Concord Cultural Development
+- [[Concord Society]]
+- The Frozen Stargate
+- [[The rise of Frieza]]
+- The Capture of Yu
+- The end of the Goa'uld
+- [[Frieza's colonies]]
+- [[Genocide of the Saiyans - brainstorming]]
+- Concord Technology
+- [[Creating the Memory Trees]]
+- Creating the Wooden Ships
+- [[Goa'uld Retaliation]]
+- [[Ba'al gets Mauled]]
+- Into the Deamon's Maw
+- [[The Imperium and the Empire]]
+- Galactic Imperialism
+- The Krieger and the Stormtrooper
+- Integrating the Saiyans
+- Enter Farming World
+- Enter Windaria
+- [[Ashtar in Windaria]]
+- Enter Nausicaa
+- Uninvited Visitors
+- [[Concord Martial Arts]]
+- More about Concord Society and Lifestyle
+- [[Ashtar Emperor and Frieren ideas]]
+- [[Ashtar Emperor and Frieren ideas 2]]
+- [[Meeting Fulgrim]]
+- Concord Spiritual Defense
+- A feat of terraforming
+- Kirillia defects
+- Fighting off a crusade
+- [[Here come the Borg]]
+- [[Enter Night City]]
+- [[Concord Influence in Night City]]
+- Stopping the Cosmic Monsters
+- [[Night City's First Contact]]
+- [[Night City is Noticed]]
+- [[Night City, Concord, and Imperium]]
+- [[Cosmic Corporate Ambitions]]
+- [[Night City's First Starship]]
+- Concord Teaches Technology
+- [[The Federation Appears]]
+- [[Analyzing the Transmissions]]
+- [[Hailing the Imperium]]
+- [[Hailing the Galactic Empire]]
+- [[Visiting the Concord]]
+- [[Visiting Night City]]
+- [[Visiting the Tau]]
+- [[Discussing the Tau]]
+- [[Soul-Death]]
+- [[Cyberpsychosis]]
+- [[Cyberpunk Debates]]
+- [[Cybernetic Soulkiller]]
+- [[Concord Monk Broadcast]]
+- [[Empire Reactions]]
+- [[The Dissident Underground Net]]
+- [[Velarion Speaks]]
+- [[NeonImperium Reacts]]
+- [[The Ruinous Algorithm]]
+- [[Tau on the Net]]
+- [[Ashtar's Journal]]
+- [[The Starseed]]
+- [[The Tech-Priest]]
+- [[Concord Relationships]]
+- [[The Desecration of Love]]
+- [[My Pleiadian Waifu]]
+- [[The Maiden on the World-Tree]]
+- [[The Forbidden Romance]]
+- [[Theories about Elfkin biology]]
+- [[Exodites join the Concord]]
+- [[Vulkan High Command]]
+- [[Vulkans visit the Space Elves]]
+- [[Intertwining Roots]]
+- [[The Imperial Council]]
+- [[Other Empires Plot]]
+- [[Picard and Palpatine]]
+- [[Night City speculations]]
+- [[Occupation of forgotten planets]]
+- [[Visiting Windaria]]
+- [[Tau and Empire Reactions]]
+- [[Night City conspiracy theories 1]]
+- [[Night City conspiracy theories 2]]
+- [[Night City conspiracy theories 3]]
+- [[Night City conspiracy theories 4]]
+- [[Off-worlders in Night City]]
+- Conference of the Elfkin
+- The Spirit Bomb
+- The Alliance of Harmonious Civilizations
+- [[Night City conspiracy theories 5]]
+- [[Night City conspiracy theories 6]]
+- [[Where Yu At?]]
+- [[The Devoted and Believers]]
+- [[The Ecclesiarchy Schism]]
+- It is I, Sir Science
+- Ashtar Speaks
+- Attack on Taygeta
+- The Crowned Heads Tremble
+- Palpatine's Hive Cities
+- [[Tau on Cyber-Earth]]
+- [[Ashtar's Redemption]]
+- [[The Red Logic Rebellion]]
+- Stopping the Omnissiah
+- The Galactic Council
+- [[The Neo-Imperium]]
+- [[A Custodian in Paradise]]
+- [[Redemption of the Eldar]]
+- [[Isha vs Slaanesh]]
+- [[Guilliman's Ressurection]]
+- [[Discussions on Taygeta]]
+- Love Heals All
+- [[Against Soul-Death]]
+- [[His Will Through My Pen]]
+- [[The Biosphere]]
+- [[Federation culture shocks]]
+- [[Velarion in San Francisco]]
+
+
+
