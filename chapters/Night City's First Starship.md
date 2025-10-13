@@ -13,13 +13,13 @@ _Delegates from the T’au Empire and a Night City consortium of megacorporate e
 
 **T’AU DELEGATION:**  
 - **Por’El Savon Tash’var** (Water Caste Diplomat)  
-- **Fio’Ui Nalen Vior’la** (Earth Caste Tech Engineer)  
-- **Shas’vre Tal’Suun** (Fire Caste Commander, Security Oversight)  
+- **Fio’O Nalen Vior’la** (Earth Caste Tech Engineer)  
+- **Shas’vre Tal’Suun** (Fire Caste Commander, Security Oversight)   
 
 **NIGHT CITY CORPORATE CONSORTIUM:**  
 - **Helena Marik** (CEO, NightCorp)  
-- **Dr. Ryken Voss** (Neural Systems Architect)  
-- **Kael Strathmore** (Tactical & Strategic Liaisons)  
+- **Dr. Ryken Voss** (Head of Xeno-Tech Division)  
+- **Kael Strathmore** (Corporate Black Operations Liaison)  
 - **Juno Saito** (Brand & Memetic Warfare Executive)
 
 ---
@@ -32,7 +32,7 @@ _Delegates from the T’au Empire and a Night City consortium of megacorporate e
 **Marik** (smiling, businesslike):  
 “And we offer what we do best: raw capability and innovation—without illusion. We believe there’s a… mutual frontier to explore.”
 
-**Fio’Ui Nalen** (scanning cyberware data via interface drone):  
+**Fio’O Nalen** (scanning cyberware data via interface drone):  
 “These augmentations… they are invasive. But precise. Efficient. Neural-synaptic coupling is advanced. Most intriguing.”
 
 **Voss:**  
@@ -50,7 +50,7 @@ _Delegates from the T’au Empire and a Night City consortium of megacorporate e
 **Saito:**  
 “Then consider this a testbed. We give you controlled neural-augmentation designs, baseline only. In exchange, you provide a calibrated void-drive blueprint — nothing more.”
 
-**Fio’Ui Nalen** (taps on holo-interface):  
+**Fio’O Nalen** (taps on holo-interface):  
 “We have reviewed your psi-shielding limitations. Without warp protection, your society cannot travel far. We will… consider an exchange. Non-militarized hulls. Civilian-grade void-jump capacity. No weapons.”
 
 **Por’El Savon:**  
@@ -100,7 +100,7 @@ _Delegates from the T’au Empire and a Night City consortium of megacorporate e
 - **Aun’Va Second Circle (Ethereal Caste Advisor)**  
 - **Por’El Savon Tash’var (Water Caste Envoy to Cyber-Sol System)**  
 - **Fio’O Nalen Vior’la (Earth Caste Chief Engineer)**  
-- **Shas’O Sa’cea Vor’Shi (Fire Caste Commander, Defensive Strategy Division)**
+- **Shas’vre Tal’Suun (Fire Caste Commander, Security Oversight)**
 
 ---
 
@@ -115,7 +115,7 @@ _Delegates from the T’au Empire and a Night City consortium of megacorporate e
 **Fio’O Nalen:**  
 “Their engineering is… excessive. Artificial limbs replace healthy ones for cosmetic reasons. Neural data is monetized. Emotional affect is chemically regulated through vending machines.”
 
-**Shas’O Vor’Shi:**  
+**Shas’vre Tal’Suun:**  
 “That is… grotesque.”
 
 **Por’El Savon:**  
@@ -124,7 +124,7 @@ _Delegates from the T’au Empire and a Night City consortium of megacorporate e
 **Fio’O Nalen:**  
 “We acquired neural mesh schematics. Modular. Adaptive. They achieve remarkable neural bandwidth using synthetic splicing — but at the cost of spiritual cohesion. The mind becomes fragmented over time, drifting toward egocentric instability.”
 
-**Shas’O Vor’Shi:**  
+**Shas’vre Tal’Suun:**  
 “They sound like machines... but without order. A society driven by impulse, not unity.”
 
 **Por’El Savon:**  
@@ -136,7 +136,7 @@ _Delegates from the T’au Empire and a Night City consortium of megacorporate e
 **Fio’O Nalen:**  
 “And yet, from a *technical* standpoint, they rival the Mechanicus of the Imperium. No religion, no ritual. Just raw iteration. They advance because no law prevents them from doing so. Their neural-link systems could be adapted to assist our infantry command protocols.”
 
-**Shas’O Vor’Shi:**  
+**Shas’vre Tal’Suun:**  
 “We must be cautious. Their culture is... corrosive. Exposure to our youth could erode the foundation of the *Greater Good.* Already some of our Earth Caste initiates display fascination with ‘Night City augmentation fashion.’”
 
 **Por’El Savon:**  
@@ -165,11 +165,10 @@ _Delegates from the T’au Empire and a Night City consortium of megacorporate e
 ### 🧪**TOPIC: Ideological Contamination Risk from Cyber-Sol (Night City) Contact**
 
 **Participants:**
-
 - **Aun’La Koor’es (Ethereal Caste, Cultural Integrity Oversight)**
 - **Por’El Savon Tash’var (Water Caste, Diplomatic Attaché to Cyber-Sol)**
 - **Fio’O Nalen Vior’la (Earth Caste, Chief Technologist)**
-- **Shas’O Dal’yth Ko’Vash (Fire Caste Commander, Civil Security Integration)**
+- **Shas’vre Tal’Suun (Fire Caste Commander, Civil Security Integration)**
 - **Elan’Shi Tel’Resh (Junior Water Caste Liaison, flagged for memetic deviation)**
 
 ---
@@ -182,13 +181,13 @@ _Delegates from the T’au Empire and a Night City consortium of megacorporate e
 **Fio’O Nalen:**  
 “Minor, for now. Curious behavior patterns. Increased adoption of Cyber-Sol jargon — ‘augmentation-as-choice,’ ‘total sovereignty,’ ‘identity fluidity.’ Some engineers now refer to themselves as ‘self-authored constructs.’”
 
-**Shas’O Ko’Vash:**  
+**Shas’vre Tal’Suun:**  
 “I’ve seen similar terms among Fire Caste cadets reviewing footage from Night City’s corporate security broadcasts. They’ve begun asking... uncomfortable questions.”
 
 **Aun’La Koor’es:**  
 “Examples?”
 
-**Shas’O Ko’Vash:**  
+**Shas’vre Tal’Suun:**  
 “‘Why should obedience be the highest virtue?’ ‘Why is tradition better than optimization?’ ‘If the Greater Good demands sacrifice, who benefits from it?’”
 
 **Aun’La Koor’es** (darkly):  
@@ -212,7 +211,7 @@ _Delegates from the T’au Empire and a Night City consortium of megacorporate e
 **Aun’La Koor’es:**  
 “A dangerous gamble. But if we isolate exposure to curated academic channels, it may prevent cultural osmosis.”
 
-**Shas’O Ko’Vash:**  
+**Shas’vre Tal’Suun:**  
 “Meanwhile, reinforce Fire Caste doctrine. Emphasize unity, honor, and discipline in all educational holos. Emotional clarity is our first shield against temptation.”
 
 **Por’El Savon:**  
@@ -316,8 +315,8 @@ _Delegates from the T’au Empire and a Night City consortium of megacorporate e
 - Helena Marik – CEO of NightCorp  
 - Varrin Cho – CTO of Arasaka Space Systems  
 - Juno Saito – Executive Memetics Lead  
-- Kael Strathmore – Strategic Deployment Director  
-- Dr. Ryken Voss – Head of Xenosciences and Exploration Ethics  
+- Kael Strathmore – Corporate Black Operations Liaison  
+- Dr. Ryken Voss – Head of Xeno-Tech Division  
 
 ---
 

@@ -1,20 +1,20 @@
-The stern chamber of the Imperial warship *Vigilant Retribution* buzzed with tension. Lord Commander Radomir, a grizzled veteran of countless crusades, stood before his assembled captains and inquisitors. The flickering hololith displayed star charts with erratic warp jump signatures encircling the sectors near the Concord worlds.
+The stern chamber of the Imperial warship *Vigilant Retribution* buzzed with tension. Lord Commander Iskander, a grizzled veteran of countless crusades, stood before his assembled captains and inquisitors. The flickering hololith displayed star charts with erratic warp jump signatures encircling the sectors near the Concord worlds.
 
 ---
 
-**Radomir:**  
+**Iskander:**  
 “Reports from our scouts and fleets show a curious pattern. Every time we attempt a decisive strike against the Concord, reinforcements arrive before expected — often from directions unanticipated by our strategists.”
 
 **Inquisitor Seraphine:**  
 “Could this be a new xenos alliance? Another heretical cult hiding in the shadows?”
 
-**Radomir:**  
+**Iskander:**  
 “Possibly. But our agents have yet to detect any formal fleet beyond Concord vessels themselves. Something is shielding them — a protective ring, perhaps, of unknown origin.”
 
 **Captain Marius:**  
 “The warp routes near their systems appear… obscured, manipulated. Our psykers report disturbances in the Immaterium unlike anything before.”
 
-**Radomir:**  
+**Iskander:**  
 “This is no ordinary defense. The Concord may have allies or technology far beyond our intelligence. We must tighten our surveillance. No further incursions without full preparations.”
 
 ---
@@ -42,7 +42,7 @@ Subject: Unnatural Resistance by Concord Forces
 
 ---
 
-**Lord Commander Radomir’s Strategic Addendum**  
+**Lord Commander Iskander’s Strategic Addendum**  
 Filed under Ecclesiarchal Observation & Ordo Hereticus Surveillance
 
 > *“They knew we were coming. Again.”*

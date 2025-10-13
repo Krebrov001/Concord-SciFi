@@ -5,9 +5,9 @@
 **Participants:**
 
 - **CEO Helena Marik (NightCorp)**  
-- **Dr. Ryken Voss (Cybernetic Intelligence Division)**  
-- **Juno Saito (Public Sentiment & Strategic Memetics)**  
-- **Kael Strathmore (Military Technologies Liaison)**  
+- **Dr. Ryken Voss (Head of Xeno-Tech Division)**  
+- **Juno Saito (Memetic Warfare Executive)**  
+- **Kael Strathmore (Corporate Black Operations Liaison)**  
 - **Ellis Tanaka (Economic Modeling & Expansion Forecasts)**  
 - **Mara Vel (Xeno-Information Division, Black Budget Programs)**  
 
@@ -118,11 +118,11 @@
 
 **ATTENDEES:**  
 - **CEO Helena Marik (NightCorp)**  
-- **Kael Strathmore (Security & Strategic Weaponization)**  
-- **Dr. Ryken Voss (Xeno-Intelligence and Deep Learning Systems)**  
-- **Mara Vel (Black Budget Threat Analyst)**  
+- **Kael Strathmore (Corporate Black Operations Liaison)**  
+- **Dr. Ryken Voss (Head of Xeno-Tech Division)**  
+- **Mara Vel (Xeno-Information Division, Black Budget Programs)**  
 - **Juno Saito (Memetic Warfare and Brand Control)**  
-- **Ellis Tanaka (Economic Continuity Directorate)**  
+- **Ellis Tanaka (Economics & Investment Modeling)**  
 
 ---
 
@@ -254,7 +254,7 @@
 - **Takashi Uehara (Arasaka Special Projects Director)**  
 - **Helena Marik (NightCorp CEO)**  
 - **Juno Saito (Memetic Warfare Executive)**  
-- **Dr. Ryken Voss (Xeno-Tech Division)**  
+- **Dr. Ryken Voss (Head of Xeno-Tech Division)**  
 - **Kael Strathmore (Corporate Black Operations Liaison)**  
 - **Ellis Tanaka (Economics & Investment Modeling)**
 
@@ -296,7 +296,7 @@
 “Best case: we replicate a Tau warp-drive or Empire hyperdrive within five years. Worst case: we trigger a first-contact incident.”
 
 **Marik:**  
-*“If the cost of interstellar access is war, we’ll pay it. The next economy isn’t local — it’s galactic. We’re already obsolete the moment those empires set foot on Earth.”*
+*“If the cost of interstellar access is war, we’ll pay it. The next economy isn’t local — it’s galactic. We’re already obsolete the moment those empires set foot on CyberEarth.”*
 
 **Uehara:**  
 “Project codename: **STELLAR LEAP.** Immediate allocation of 800 billion eddies in black funding. Assign ghost crews. Prioritize stealth over firepower.”

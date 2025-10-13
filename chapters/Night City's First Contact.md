@@ -61,7 +61,7 @@ Then the lights dimmed as another transmission played. A woman's voice this time
 **Biotechnica filed reports** on “psyker” terminology — noting references to psychic warfare, mind-imploding powers, sanctioned witches. If true, this meant **extrasensory warfare**, something even the most bleeding-edge Night City R&D hadn't cracked yet.
 
 **Militech ran scenario simulations:**  
-- If the Imperium were real and hostile, Earth wouldn’t last a week.  
+- If the Imperium were real and hostile, CyberEarth wouldn’t last a week.  
 - If it were real and *not* hostile… the implications were even more dangerous.
 
 > “A civilization that industrialized devotion. That militarized tradition. That sanctified bureaucracy.”  

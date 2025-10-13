@@ -26,8 +26,8 @@ Presumed: Lost fragment of a DAoT-era expeditionary culture, never recovered.
 - State-sanctioned **organ trade**, **digital limb exchange**, and **identity fracturing** for profit.
 
 **Designation Recommended:**  
-> *Techno-Heretic Degenerate Human Subclass – Non-Compliant.  
-Potential Target for Exterminatus upon resource availability.*
+> *Techno-Heretic Degenerate Human Subclass – Non-Compliant.*  
+> *Potential Target for Exterminatus upon resource availability.*
 
 ---
 
@@ -46,7 +46,7 @@ Potential Target for Exterminatus upon resource availability.*
 
 ### 🎙️ MILITARUM COMMENTARY:
 
-**Lord General Vorth Radomir, Cadian 54th,** upon receiving holopict scans:
+**Lord General Vorth Iskander, Cadian 54th,** upon receiving holopict scans:
 
 > *“This world would’ve been glassed within hours if not for our current engagements across six fronts. In another age, we’d have sent ten regiments of Guard, two wings of Sisters, and a Black Templar strike force to cleanse it and plant a cathedral in its ashes.”*
 
@@ -91,14 +91,14 @@ Potential Target for Exterminatus upon resource availability.*
 ## 🕯️Segmentum Command Briefing — High Orbit over Virelia IV  
 **Subject:** Strategic Frustrations and the Interstellar Degeneracy of the Age  
 **Attendees:**  
-- **Lord General Vorth Radomir**, Cadian 54th  
+- **Lord General Vorth Iskander**, Cadian 54th  
 - **Canoness Joryn Malcaste**, Order of the Sacred Flame  
 - **Magos Aucterus**, Explorator Designate  
 - **Inquisitor Thress**, Ordo Hereticus
 
 ---
 
-**Radomir**, pacing before a grand hololith depicting the **Galactic Core**, his voice a low, gravel-dragging growl beneath his rebreather:
+**Iskander**, pacing before a grand hololith depicting the **Galactic Core**, his voice a low, gravel-dragging growl beneath his rebreather:
 
 > "Night City. The soulless bastion of augmentation and lust. The lowliest of the pocket-empires of Man — and yet we allow it to *persist*, festering like an unburned heretic, because we cannot spare a single Guardsman while the so-called **Galactic Empire** clogs the outer Rim with its decadence."
 
@@ -116,7 +116,7 @@ He slams his fist on the command lectern. A data-servitor squeaks in alarm.
 
 > “They trade in power, not devotion. Their soldiers are nameless. Their faith is none. Their soul is the state.”
 
-**Radomir**, voice hardening:
+**Iskander**, voice hardening:
 
 > “We should have swept Night City clean two years ago. Bombed the soulless towers to molten slag. Instead, we’re playing chess with a lunatic who thinks his Empire belongs in the same breath as ours.”
 
@@ -132,7 +132,7 @@ He gestures toward the stars—toward **Coruscant**, a silver fleck amid a slowl
 
 > “They mock the divine in all its forms. Their Empire is fast, sharp, precise — but it is hollow. A blade without a purpose but to conquer.”
 
-**Radomir**, quietly now, jaw clenched:
+**Iskander**, quietly now, jaw clenched:
 
 > “And so, while we fight tooth and nail against the Orks on the Kallixian front, while the Hive Fleet circles like sharks, while Chaos boils at the rim of sanity... we let them live.”
 
@@ -162,9 +162,9 @@ Here's a dramatic scene in a secluded Concord sanctuary — an **ancient glade-t
 ## 🕊️**Scene: The Council Beneath the Roots**  
 *Participants:*  
 - **Ashtar Sheran** – Pleiadian High Mentat and spiritual guide  
-- **Elder Velarion** – Elven mage-lord of the Sílvae Concordia  
+- **Elder Velarion** – High Wizard of the Space Elves 
 - **Kage Nara** – Strategist of the Hidden Leaf  
-- **High Druidess Myria of Kelt’Aryn** – Speaker of the Grove  
+- **Lady Frieren** – Speaker of the Grove  
 - **Ael’Ra**, an astral projection of a Frierenian chronomancer  
 
 ---
@@ -185,7 +185,7 @@ The meeting is silent at first — not for lack of urgency, but because thoughts
 
 > "The Emperor of Mankind suspects Palpatine of being another ‘Horus’. Palpatine sees Terra as a threat to galactic unity. We set up the dominoes."
 
-**Druidess Myria**, voice soft, touched with sadness:
+**Lady Frieren**, voice soft, touched with sadness:
 
 > "It was not pleasure we took in this deception. But survival demands patience. And subtlety. Had we revealed ourselves outright, they would have turned their hellish fire toward our worlds, as they have before."
 
@@ -209,7 +209,7 @@ The meeting is silent at first — not for lack of urgency, but because thoughts
 
 > "Classic ninjutsu. Use your opponent's strength against them. Redirect the blow without ever being seen."
 
-**Myria**, touching the roots beneath her seat:
+**Frieren**, touching the roots beneath her seat:
 
 > "And in their war… we grow. Quietly. Steadily. Returning to harmony while they set stars ablaze."
 
@@ -217,7 +217,7 @@ The meeting is silent at first — not for lack of urgency, but because thoughts
 
 > "We are not conquerors. But we will not be prey. Let them destroy each other in the name of false empires. We will endure — and from the ashes, plant anew."
 
-A silence falls. A bird, glowing with soft concordic light, flutters down from the canopy and lands beside Myria. The wind shifts.
+A silence falls. A bird, glowing with soft concordic light, flutters down from the canopy and lands beside Frieren. The wind shifts.
 
 And in the distance, the stars begin to burn.
 
