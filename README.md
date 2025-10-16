@@ -13,3 +13,9 @@ The **Concordverse** is an epic science-fiction saga that unites mythology, phil
 - Philosophy and Metaphysics
 - Civilizations
 - Characters
+
+## Blog Articles
+
+- article 1
+- article 2
+- article 3
