@@ -1,6 +1,6 @@
 ## 🚧 Scene: Night City — Urban Sprawl Beneath a Flickering Sky
 
-*The Enterprise* hovers in low orbit, cloaked and silent. Beneath it sprawls Night City — a chaotic web of light, metal, and smoke, pulsing like a dying star trapped in endless rave and rebellion.
+*The Enterprise* hovers in low orbit above Cyber-Earth, cloaked and silent. Beneath it sprawls Night City — a chaotic web of light, metal, and smoke, pulsing like a dying star trapped in endless rave and rebellion.
 
 ---
 
@@ -92,7 +92,7 @@ This world is not evil. But it is lost. It doesn’t need conquest — it needs 
 
 ---
 
-*The Federation away team continues their silent observation, drifting through the night-soaked arteries of the city. Above them: vertical palaces of glass and steel, logo-wrapped and owned by corporations like miniature gods. Below: flickering slums, concrete drenched in oil, neon, and desperation.*
+*The Federation away team continues their silent observation, drifting through the rain-soaked arteries of the city. Above them: vertical palaces of glass and steel, logo-wrapped and owned by corporations like miniature gods. Below: flickering slums, concrete drenched in oil, neon, and desperation.*
 
 ---
 
@@ -256,7 +256,7 @@ Come. Let’s return. We’ve seen enough. And perhaps… learned too much.
 “We came looking for understanding. What we’ve found are reflections of our potential — distorted through history and choice. We must proceed cautiously. Not just diplomatically… but philosophically.”
 
 **Picard (folding his hands thoughtfully):**  
-“The Concord emissary, Ashtar Sheran, warned us of a path. A path of unchecked urbanization. Technocratic obsession. The loss of soul. Night City appears to embody everything they warned about.”
+“The Concord spiritual leader, Ashtar Sheran, warned us of a path. A path of unchecked urbanization. Technocratic obsession. The loss of soul. Night City appears to embody everything they warned about.”
 
 **Troi (softly):**  
 “Yes, Captain. It’s uncanny. The Concord spoke in metaphors, but Night City makes them literal. It's a world where humanity has severed its roots. Where technology fills the void left by disconnection.”
@@ -264,7 +264,7 @@ Come. Let’s return. We’ve seen enough. And perhaps… learned too much.
 **Riker (leaning forward):**  
 “And yet… both societies are human. The same raw material. One embraces the forest, the other entombs itself in metal.”
 
-**Crusher:**  
+**Troi:**  
 “I can’t stop thinking about the people we saw on the streets — half-mechanical, emotionally numbed, chemically enhanced. They’ve mutilated themselves chasing ‘improvement.’ It’s like humanity reprogrammed itself to forget what it means to be alive.”
 
 **La Forge (bringing up side-by-side images of a Concord village and Night City’s skyline):**  
@@ -276,7 +276,7 @@ Come. Let’s return. We’ve seen enough. And perhaps… learned too much.
 **Worf (sternly):**  
 “In Night City, the strong prey on the weak. In the Concord, the strong nurture the weak. One is a fortress of ego. The other — a temple of restraint.”
 
-**Troi (reflecting):**  
+**La Forge (reflecting):**  
 “And yet both societies fear extinction. Night City clings to augmentation as salvation. The Concord clings to symbiosis and wisdom. Each trying to shield themselves from a galaxy that tears civilizations apart.”
 
 **Riker:**  

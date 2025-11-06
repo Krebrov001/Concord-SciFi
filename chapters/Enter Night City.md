@@ -193,7 +193,7 @@ David raises his weapon instinctively. Lucy draws her blade.
 A pause. Rain falls harder. David narrows his eyes.
 
 > “What the hell are you talking about?”
->
+
 > “We are travelers. From a world beyond this one. Through the ancient gates. We came here not to fight. But to learn.”
 
 Lucy doesn’t lower her blade—but her expression changes. She steps forward slowly.

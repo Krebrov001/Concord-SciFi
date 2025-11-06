@@ -261,11 +261,7 @@ This conversation marks a turning point for the Federation—and perhaps for the
 **Imperial Officer** (authoritative):  
 Reporters, listen well. We have intercepted and engaged in dialogue with a vessel claiming to represent the “Federation.” Their captain, a man named Picard, put forth a theory most heretical—and yet, worthy of consideration.
 
----
-
 *The officers exchange uneasy glances.*
-
----
 
 **Imperial Officer** (continuing):  
 He suggests the existence of a Type 3 civilization, one capable of creating duplicates of Terra—Earth-like worlds scattered across the stars. Worlds that share geography, yet bear divergent histories and rulers.
@@ -275,8 +271,6 @@ He referenced the incident of Sixty-Three-Nineteen, where a false emperor claime
 ---
 
 *An officer interjects.*
-
----
 
 **Imperial Officer 2:**  
 Are you implying that the Federation could be yet another such false Imperium?

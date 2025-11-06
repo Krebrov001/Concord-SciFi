@@ -291,7 +291,7 @@ _Timestamp: 02:00_
 > I’m assembling a packet. Concord philosophy. Terraforming patterns.  
 > Alleged psychic training routines. I want to try. Even just in simulation.
 
-> Not to escape.  
+> Not to rebel.  
 > But to become ungovernable.  
 > Not by code. Not by corpo. Not by algorithm.
 

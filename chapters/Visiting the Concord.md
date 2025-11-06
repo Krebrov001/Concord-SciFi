@@ -307,7 +307,7 @@ Captain Sheran, your ships — they appear to be living organisms, grown rather 
 ---
 
 **Ashtar Sheran:**  
-Indeed, our vessels are living entities, grown from ancient seed-forms nurtured by our sages and bio-artisans. They are not machines but symbiotic partners, bonded through deep consciousness and shared purpose.
+Indeed, our vessels are living entities, engineered plant-like organisms grown from seed-forms nurtured by our sages and bio-artisans. They are not machines but symbiotic partners, bonded through deep consciousness and shared purpose.
 
 ---
 
@@ -317,7 +317,7 @@ Are these ships sentient?
 ---
 
 **Ashtar Sheran:**  
-Yes, in a manner of speaking. They possess awareness and respond to their pilots’ thoughts and emotions. Their living structures repair themselves and adapt to environmental conditions, much like trees respond to the seasons.
+Yes, in a manner of speaking. They are semi-sentient, although their intelligence is that of a plant. They possess awareness and respond to their pilots’ thoughts and emotions. Their living structures repair themselves and adapt to environmental conditions, much like trees respond to the seasons.
 
 ---
 
@@ -411,7 +411,7 @@ So what looks like glory is, in reality, a tomb masked by neon?
 ---
 
 **Ashtar Sheran:**  
-Precisely. These cities are monuments to human ambition, yes—but also mausoleums of lost wisdom and fractured souls. Even Earth — your homeworld, and the Imperium’s holy Terra — struggles beneath the weight of its own grandeur and endless war.
+Precisely. These cities are monuments to human ambition, yes—but also mausoleums of lost wisdom and fractured souls. Even Federation Earth — your homeworld, and the Imperium’s Holy Terra — struggles beneath the weight of its own grandeur and endless war.
 
 ---
 
@@ -436,3 +436,4 @@ Indeed. True progress honors the roots from which it grows, not the monuments th
 ---
 
 *The Federation crew contemplates the profound caution in his words, understanding that beneath shining surfaces may lie deep and dangerous fractures.*
+

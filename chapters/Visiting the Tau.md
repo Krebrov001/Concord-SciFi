@@ -170,7 +170,7 @@ Red-orange light from the nearby dwarf binary system casts a glow across the *En
 
 **Tau Ship – *Or’es T’au Kais’faal* Response (Translated):**  
 > *[Calm, even voice. Faint electronic harmony overlay.]*  
-> “Greetings, Captain Picard. I am Por’el T’au Veris, diplomatic envoy aboard the Tau vessel *Or’es T’au Kais’faal*, of the Fifth Expansion Fleet. Your vessel and transmission are unfamiliar. You are not known to the Imperium, the Concord, nor to the Galactic Empire. Are you an independent polity of Earthkind?”
+> “Greetings, Captain Picard. I am Por’el T’au Veris, diplomatic envoy aboard the Tau vessel *Or’es T’au Kais’faal*, of the Fifth Expansion Fleet. Your vessel and transmission are unfamiliar. You are not known to the Imperium, the Concord, nor to the Galactic Empire. Are you an independent polity of Mankind?”
 
 ---
 
@@ -224,7 +224,7 @@ A curved chamber of shimmering clean surfaces. Light projects from beneath the f
 ---
 
 **Por’el T’au Veris (Water Caste, Diplomatic Analyst):**  
-> “A human civilization *not* from the Galactic Core. One that appears stable, open to dialogue, and yet completely unknown to any of the core’s major empires—Imperium, Empire, Concord, or even the Orks. This is… profound.”
+> “A human civilization *not* from the Galactic Core. One that appears stable, open to dialogue, and yet completely unknown to any of the core’s major empires—Imperium, Empire, Concord, or even the Eldar. This is… profound.”
 
 **Fio’o Sa’cea N’drah (Earth Caste, Engineer):**  
 > “Their ship—the *Enterprise*—is an elegant example of controlled engineering. No extraneous ornamentation. No skulls, no pseudoreligious plating, no barklike Concord growths. It runs hot, but stable. Matter-antimatter reactor. Balanced emissions. This is high science. And remarkably non-hostile.”
@@ -254,7 +254,7 @@ A curved chamber of shimmering clean surfaces. Light projects from beneath the f
 > “They carry themselves like… scientists. Philosophers. Human, yes—but untainted by the madness of the Core. Like… what humanity might have been before the Long Night.”
 
 **Aun’el Dovash (hands folded):**  
-> “Then treat them as such. Not like Concord monks to be indulged, nor Imperium zealots to be quarantined. These humans may offer a glimpse into *another evolutionary branch* of civilization. One where technology and thought were allowed to flourish free of Chaos… and of the Greater Good.”
+> “Then treat them as such. Not like Concord sages to be indulged, nor Imperium zealots to be quarantined. These humans may offer a glimpse into *another evolutionary branch* of civilization. One where technology and thought were allowed to flourish free of Chaos… and of the Greater Good.”
 
 **Shas’el Kova’tan (grudging):**  
 > “We will keep weapons ready. Just in case.”
@@ -357,7 +357,7 @@ Holograms flicker to life. Both parties display a galactic map.
 > “We’ve encountered civilizations driven by conquest, ritual, even entropy. Yours… is something else. Idealistic, yet not naïve.”
 
 **Por’el Veris:**  
-> “And you, Captain, represent a civilization not shaped by the warp, by Chaos, or by ancient horror. That alone makes your presence… revelatory.”
+> “And you, Captain, represent a civilization not shaped by the Warp, by Chaos, or by ancient horror. That alone makes your presence… revelatory.”
 
 **Aun’el Dovash:**  
 > “You are humans unpoisoned. It raises questions… about what humanity might still become.”
@@ -374,10 +374,6 @@ Holograms flicker to life. Both parties display a galactic map.
 
 **Picard (with calm grace):**  
 > “A beginning, indeed. There is much to learn… from each other.”
-
----
-
-Would you like to continue with **a cultural tour aboard the Federation ship for the Tau**, or explore **a philosophical discussion between Picard and the Ethereal Aun’el Dovash on governance, freedom, and unity**?
 
 ---
 
@@ -656,7 +652,7 @@ Ambient lighting remains soft. A gentle resonance plays from hidden emitters—s
 > “You’ve spoken of Night City’s cybernetic excesses, and we’ve heard your impressions. Now, let me offer you another perspective. The *Concord* — a human civilization so different from the Imperium or the Galactic Empire.”
 
 **Picard (curious):**  
-> “We have glimpsed their transmissions. An agrarian, nature-centered society, rejecting industrialism.”
+> “We have visited their society. An agrarian, nature-centered society, rejecting industrialism.”
 
 **Aun’el Dovash (nodding):**  
 > “They embrace harmony with living things, organic technologies, even what your mystics might call ‘magic.’”

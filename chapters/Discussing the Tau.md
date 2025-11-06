@@ -92,7 +92,7 @@
 > “To fully assess the Federation’s threat or alliance potential, we must understand their internal political dynamics. Their surface appears unified, but their structure is complex.”
 
 **Ethereal Shas’la Nor’keth:**  
-> “The Federation is a coalition of member worlds, each retaining sovereignty while ceding certain powers to the Federation Council and Starfleet Command. This decentralization offers both strength and vulnerability.”
+> “According to what we could gleam from Captain Picard, the Federation is a coalition of member worlds, each retaining sovereignty while ceding certain powers to the Federation Council and Starfleet Command. This decentralization offers both strength and vulnerability.”
 
 **Ethereal Shas’vre Kel’nar:**  
 > “Indeed, this distributed power risks internal conflict. Cultural, political, and ideological differences among member worlds may slow decisions or create fissures exploitable by enemies.”

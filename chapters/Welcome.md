@@ -62,7 +62,7 @@
 - [[Night City's First Starship]]
 - Concord Teaches Technology
 - [[The Federation Appears]]
-- [[Analyzing the Transmissions]]
+- [[The Dark Forest Screams]]
 - [[Hailing the Imperium]]
 - [[Hailing the Galactic Empire]]
 - [[Visiting the Concord]]
